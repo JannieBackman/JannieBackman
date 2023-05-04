@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JannieBackman
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning about cms and how to bu
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 💞️ I’m looking to collaborate on ... -->
+- 📫 [https://janniebackman.vercel.app/]
 
 <!---
 JannieBackman/JannieBackman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
