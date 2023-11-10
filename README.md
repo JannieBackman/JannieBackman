@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JannieBackman
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning about cms and how to bu
-- 💞️ I’m looking to collaborate on ... -->
+- 👋 Hi, I’m @JannieBackman, I'm a frontend developer and Technical support
+- 👀 I’m interested in webdesign and UX/UI.
+- 🌱 I’m currently learning more about plain javascript and asp.
 - 📫  <a href ="https://janniebackman.vercel.app/"> Portfolio</a>
 
 <!---
